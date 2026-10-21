@@ -1,5 +1,3 @@
-# Group-1---Web-Project---SDAJ
-
 # SDAJ – Game Studio Website
 
 A multi-page website for **SDAJ**, a made-up game development company based in Melbourne, Australia, whose tagline is *"Timeless Classics, Forged in Darkness..."*. We built it as a group project for a web development unit at Swinburne University of Technology in 2025.
@@ -22,6 +20,7 @@ The site is plain HTML and CSS, with no frameworks and no JavaScript.
 - Accessible markup: alt text on images and ARIA attributes
 
 ## Project Structure
+```
 ├── index.html
 ├── about.html
 ├── apply.html
@@ -29,6 +28,7 @@ The site is plain HTML and CSS, with no frameworks and no JavaScript.
 ├── styles/         # current stylesheets
 ├── outdated-css/   # earlier stylesheet versions
 └── images/
+```
 
 ## Running It
 No build step is needed. Clone the repo and open `index.html` in a browser.
